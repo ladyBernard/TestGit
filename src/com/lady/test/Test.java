@@ -7,5 +7,6 @@ package com.lady.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("lady写的代码");
+        System.out.println("hot_fix分支");
     }
 }
